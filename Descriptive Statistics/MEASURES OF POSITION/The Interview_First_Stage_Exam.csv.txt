@@ -1,0 +1,10 @@
+The "Interview_First_Stage_Exam.csv" data is a completely fabricated data set for use only on the upGrad platform.
+
+Any resemblance to entities past, present or future is merely a coincidence.
+
+Feature Description:
+AID = unique whole number assigned to a job applicant for the purpose of identification
+Name = first name of the applicant
+English = marks obtained out of 100 in the English test
+Mathematics = marks obtained out of 100 in the mathematics test
+Pogramming = marks obtained out of 100 in the programming test
