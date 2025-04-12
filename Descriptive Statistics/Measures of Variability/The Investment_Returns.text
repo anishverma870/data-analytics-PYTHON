@@ -1,0 +1,9 @@
+The "Investment_Returns.csv" data is a completely fabricated data set for use only on the upGrad platform.
+
+Any resemblance to entities past, present or future is merely a coincidence.
+
+Feature Description:
+Year = year for which a particular investment return was calculated
+George and Wallace = percent return in investment via the company "George and Wallace"
+Imperial Traders = percent return in investment via the company "Imperial Traders"
+High Rise = percent return in investment via the company "High Rise"
