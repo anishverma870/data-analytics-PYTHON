@@ -1,0 +1,9 @@
+The "Company_Expenditure.csv" data is a completely fabricated data set for use only on the upGrad platform.
+
+Any resemblance to entities past, present or future is merely a coincidence.
+
+Feature Description:
+Month = month for which expenditure and profit values are recorded
+Marketing = amount spent by the company on marketing expenditures in rupees for a specific month
+Human Resources = amount spent by the company on human resources expenditures in rupees for a specific month
+Infrastucture = amount spent by the company on infrastructure expenditures in rupees for a specific month
